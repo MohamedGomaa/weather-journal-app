@@ -1,0 +1,19 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "My first project on node",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "weather-journal-app"
+  },
+  "author": "Mohamed Gomaa",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
